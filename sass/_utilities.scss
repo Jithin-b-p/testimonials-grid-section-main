@@ -1,0 +1,23 @@
+.bg-primary {
+  background-color: hsl($clr-primary-400);
+}
+
+.bg-secondary-400 {
+  background-color: hsl($clr-secondary-400);
+}
+
+.bg-secondary-500 {
+  background-color: hsl($clr-secondary-500);
+}
+
+.bg-neutral-100 {
+  background-color: hsl($clr-neutral-100);
+}
+
+.flex {
+  display: flex;
+}
+
+.gap-sm {
+  gap: 1rem;
+}

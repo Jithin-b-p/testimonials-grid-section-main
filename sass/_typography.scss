@@ -1,0 +1,27 @@
+body {
+  font-family: $ff-primary;
+  font-weight: $fw-500;
+}
+
+.testimonial {
+  &__name {
+    font-size: 0.8rem;
+    font-weight: $fw-600;
+    line-height: 1.5;
+  }
+
+  &__position {
+    font-size: $fs-500;
+    font-size: 0.7rem;
+  }
+
+  &__title {
+    font-size: 1.25rem;
+    font-weight: $fw-600;
+    line-height: 1.2;
+  }
+  &__quote {
+    font-size: $fs-600;
+    line-height: 1.4;
+  }
+}
