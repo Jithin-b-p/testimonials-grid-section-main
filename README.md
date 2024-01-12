@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [click here](https://github.com/Jithin-b-p/testimonials-grid-section-main)
+- Solution URL: [click here](https://www.frontendmentor.io/solutions/testimonialsgridsection-with-sass-d_iGmIgGWg)
 - Live Site URL: [click here](https://jithin-b-p-testimonial.netlify.app/)
 
 ## My process
