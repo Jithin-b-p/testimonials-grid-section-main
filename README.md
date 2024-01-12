@@ -1,18 +1,16 @@
 # Frontend Mentor - Testimonials grid section solution
 
-![](./design/desktop-preview.jpg)
+![](./assets/deskmain.png)
+![](./assets/desk.png)
+![](./assets/mobile.png)
 
 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-<h2 align="center">Links</h2>
-
-- Solution URL: [click here]()
-- Live Site URL: [click here]()
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -25,6 +23,11 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
+
+### Links
+
+- Solution URL: [click here](https://github.com/Jithin-b-p/testimonials-grid-section-main)
+- Live Site URL: [click here](https://jithin-b-p-testimonial.netlify.app/)
 
 ## My process
 
